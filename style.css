@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    margin-top: 90px;
+    height: 450px;
+    width: 400px;
+    background-color: #D4EBF8;
+    text-align: center;
+    border-radius: 7px;
+    border: 5px solid black;
+    
+}
+#display{
+    width: 70%;
+    height: 50px;
+}
+
+.inpDiv input{
+    width: 42%;
+    margin-top: 80px;
+    border-radius: 5px;
+    height: 35px ;
+}
+
+.tc{
+    color: #1F509A;
+}
